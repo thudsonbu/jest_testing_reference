@@ -19,8 +19,7 @@ After creating a new project with npm init,  and saving jest to the package.json
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest" // this will make jest our default testing library and run when
-										// we enter the test comman
+    "test": "jest"
   },
   "author": "thudsonbu",
   "license": "ISC"
